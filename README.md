@@ -1,4 +1,3 @@
+- 🤖 BSc in Artificial Intelligence
 - 📚 BSc in Cultural Anthropology
-- 🤖 Getting a BSc in Artificial Intelligence in Amsterdam
-- 🐍 Designing a Python course at Winc Academy
 - 📫 [hi@stfwn.com](mailto:hi@stfwn.com)
