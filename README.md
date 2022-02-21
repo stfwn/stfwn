@@ -1,3 +1,2 @@
-- 🤖 BSc in Artificial Intelligence
-- 📚 BSc in Cultural Anthropology
+- 🤖 Doing a MSc in artificial intelligence at the University of Amsterdam.
 - 📫 [hi@stfwn.com](mailto:hi@stfwn.com)
