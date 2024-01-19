@@ -1,2 +1,2 @@
-- 🤖 Doing a MSc in artificial intelligence at the University of Amsterdam.
+- 🤖 Cyber security scientist at [TNO](https://www.tno.nl/).
 - 📫 [hi@stfwn.com](mailto:hi@stfwn.com)
